@@ -8,6 +8,10 @@ Frontend Developer • React • Learning NestJS
 <a href="mailto:geo.binu.25@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat&logo=GMail&logoColor=white"/></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/georgy-binu"><img src="https://img.shields.io/badge/-LinkedIn-006192?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <!-- LeetCode -->
+<a href="https://leetcode.com/u/geo_codes/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <!-- X -->
+<a href="https://x.com/geo_codes_"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
 ### About

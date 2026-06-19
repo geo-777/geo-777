@@ -22,7 +22,7 @@ Currently learning NestJS and TypeScript to strengthen my backend and full-stack
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nestjs,nodejs,python,cpp,c,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nestjs,nodejs,python,cpp,c,java,git,vscode" />
 </p>
 
 ### Stats

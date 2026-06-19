@@ -16,8 +16,8 @@ Full-stack Developer • React • NestJS
 
 ### About
 
-I'm a frontend developer focused on building fast, maintainable web applications with React.
-Currently learning NestJS and TypeScript to strengthen my backend and full-stack development skills.
+I'm a full-stack developer focused on building fast, maintainable web applications using React and NestJS. I work across both frontend and backend development, leveraging TypeScript to create scalable and reliable applications.
+
 
 ### Stack
 

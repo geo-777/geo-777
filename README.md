@@ -2,7 +2,7 @@
 <h1 align="center">Georgy</h1>
 
 <p align="center">
-Frontend Developer • React • Learning NestJS
+Full-stack Developer • React • NestJS
 </p>
 <p align="center">
 <a href="mailto:geo.binu.25@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat&logo=GMail&logoColor=white"/></a>

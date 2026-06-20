@@ -31,6 +31,4 @@ I'm a full-stack developer focused on building fast, maintainable web applicatio
  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geo-777&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 
-<div align="center">
-<sub><img src="https://visitor-badge.laobi.icu/badge?page_id=geo-777.geo-777" /></sub>
-</div>
+

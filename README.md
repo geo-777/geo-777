@@ -22,7 +22,7 @@ I'm a full-stack developer focused on building fast, maintainable web applicatio
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nestjs,nodejs,python,cpp,c,java,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nestjs,nodejs,golang,python,cpp,c,java,git,vscode" />
 </p>
 
 ### Stats

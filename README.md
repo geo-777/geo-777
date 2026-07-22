@@ -26,9 +26,18 @@ I'm a full-stack developer focused on building fast, maintainable web applicatio
 </p>
 
 ### Stats
-<a href="https://github.com/geo-777">
- <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geo-777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geo-777&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+<div align="center">
+
+
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=geo-777&show_icons=true&include_all_commits=true&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117)](https://github.com/geo-777)
+&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=geo-777&layout=compact&langs_count=6&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117)](https://github.com/geo-777)
+
+<br>
+
+[![Streak](https://streak-stats.demolab.com?user=geo-777&theme=transparent&hide_border=true&ring=FF5F56&fire=D1D5DB&currStreakLabel=FF5F56&currStreakNum=D1D5DB&dates=9CA3AF&sideLabels=9CA3AF&sideNums=D1D5DB&background=0D1117)](https://github.com/geo-777)
+<br>
+
+</div>
 
 

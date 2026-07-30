@@ -2,7 +2,7 @@
 <h1 align="center">Georgy</h1>
 
 <p align="center">
-Full-stack Developer • React • NestJS
+Full-stack Developer • React • Golang (GIN)
 </p>
 <p align="center">
 <a href="mailto:geo.binu.25@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat&logo=GMail&logoColor=white"/></a>
@@ -16,7 +16,7 @@ Full-stack Developer • React • NestJS
 
 ### About
 
-I'm a full-stack developer focused on building fast, maintainable web applications using React and NestJS. I work across both frontend and backend development, leveraging TypeScript to create scalable and reliable applications.
+I'm a full-stack developer focused on building fast, maintainable web applications using React and Gin Framework (golang). I work across both frontend and backend development, leveraging TypeScript and Golang to create scalable and reliable applications. I'm also familiar with NestJS and basics of FastAPI.
 
 
 ### Stack

@@ -9,7 +9,7 @@ Full-stack Developer • React • Golang (GIN)
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/georgy-binu"><img src="https://img.shields.io/badge/-LinkedIn-006192?style=flat&logo=Linkedin&logoColor=white"/></a>
   <!-- LeetCode -->
-<a href="https://leetcode.com/u/geo_codes/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/geo-777/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
   <!-- X -->
 <a href="https://x.com/geo_codes_"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>

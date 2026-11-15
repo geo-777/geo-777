@@ -36,6 +36,8 @@ I'm a full-stack developer focused on building fast, maintainable web applicatio
 <br>
 
 [![Streak](https://streak-stats.demolab.com?user=geo-777&theme=transparent&hide_border=true&ring=FF5F56&fire=D1D5DB&currStreakLabel=FF5F56&currStreakNum=D1D5DB&dates=9CA3AF&sideLabels=9CA3AF&sideNums=D1D5DB&background=0D1117)](https://github.com/geo-777)
+
+[Click here](https://georgy-binu.vercel.app/) <3
 <br>
 
 </div>
